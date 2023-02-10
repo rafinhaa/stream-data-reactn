@@ -19,8 +19,8 @@ desafio é a autenticação, que foi treinado construindo um aplicativo que cons
 ## 🏁 How to run the project
 #### Clone the repository
 ```bash
-git clone https://github.com/rafinhaa/ignite-reactrn-desafio-03
-cd ignite-reactrn-desafio-03
+git clone https://github.com/rafinhaa/stream-data-reactn
+cd stream-data-reactn
 ```
 
 #### Install dependencies
